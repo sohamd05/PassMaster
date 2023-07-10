@@ -1,0 +1,9 @@
+site: www.google.com, email: example.mail.com, password: 99I!g5pTp2kKD*
+site: www.google.com, email: example.mail.com, password: 99I!g5pTp2kKD*
+site: www.xyz.com, email: example.mail.com, password: 615iY*!%wWuYyj$
+site: www.google.com, email: example.mail.com, password: UDr%D7R3xWmn%Z
+site: www.instagram.com, email: example.mail.com, password: )Izss15ynOV$EO
+site: www.facebook.com, email: example.mail.com, password: wn%8Q*5W0LYd(3P$
+site: www.google.com, email: example.mail.com, password: $m5t)cwt7+bMgx4V
+site: www.matrimony.com, email: example.mail.com, password: dA(T(hvLi48SE
+site: www.xyz.12.com, email: example.mail.com, password: )mP&&8k0pcsvb&14L
