@@ -2,6 +2,10 @@
 Description:
 The Password Generator and Locker is a project aimed at helping users generate strong and secure passwords for their various online accounts and securely store them. It provides a convenient way to generate unique passwords for different websites and saves them in a JSON file. If users forget their passwords, they can easily retrieve them by searching for the specific website within the application.
 
+![WhatsApp Image 2023-08-18 at 10 13 27 AM](https://github.com/sohamd05/PassMaster/assets/118821338/676da542-3f7d-4c6b-b854-bbfd2495b450)
+
+
+
 Key Features:
 
 Password Generation: 
